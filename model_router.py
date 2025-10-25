@@ -382,7 +382,7 @@ class ModelRouter:
 
 # Example usage and testing
 async def main():
-    """Example usage of the ModelRouter"""
+   
     # Initialize router
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
